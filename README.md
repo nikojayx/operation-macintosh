@@ -1,8 +1,4 @@
-<!DOCTYPE html>
- <html lang="en">
- <head>
-   <meta charset="UTF-8">
-   <title>Operation MacBook: Stardate Unknown</title>
+ <title>Operation MacBook: Stardate Unknown</title>
    <style>
      body {
        font-family: 'Aptos', sans-serif;
